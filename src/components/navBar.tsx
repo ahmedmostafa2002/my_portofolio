@@ -6,7 +6,7 @@ function NavBar(){
     const [isMenuOpen, setIsMenuOpen] = useState(false);
     
     return(
-        <div className="fixed w-full text-gray-200 bg-gradient-to-br from-gray-800 to-gray-900 py-4 px-30 opacity-90">
+        <div className="fixed w-full text-gray-200 bg-gradient-to-br from-gray-800 to-gray-900 py-4 px-30 opacity-90 z-30">
             <div className="flex justify-between items-center">
                 <h1 className="font-bold text-white text-2xl">Ahmed<span className="text-2xl text-cyan-400">.</span></h1>
                 

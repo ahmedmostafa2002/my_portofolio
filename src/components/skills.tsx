@@ -12,7 +12,7 @@ function Skills() {
             <span className=" h-1.5  w-22 bg-cyan-600 my-4" />
             <p className="text-gray-400 text-lg w-full lg:w-1/2 text-center font-bold">A showcase of my technical abilities and professional expertise</p>
             <div className='flex flex-col lg:flex-row gap-3 w-full mt-16 '>
-            <span className="h-52 w-full lg:w-1/2 rounded-lg border-2 border-gray-600 bg-gray-900 p-8">
+            <span className="w-full lg:w-1/2 rounded-lg border-2 border-gray-600 bg-gray-900 p-8">
                 <div className='flex items-center gap-4'>
                     <div className='h-12 w-12 bg-cyan-700 rounded-full flex justify-center items-center'>
                     <DesktopMacIcon className='text-cyan-400 '/>
@@ -30,7 +30,7 @@ function Skills() {
                  <span className='text-gray-300 hover:bg-cyan-900 rounded-full py-1 px-4 bg-gray-800'>Tailwind</span>
                 </div>
                 </span>
-            <span className="h-52 w-full lg:w-1/2 rounded-lg border-2 border-gray-600 bg-gray-900 p-8">
+            <span className="w-full lg:w-1/2 rounded-lg border-2 border-gray-600 bg-gray-900 p-8">
                 <div className='flex items-center gap-4'>
                     <div className='h-12 w-12 bg-cyan-700 rounded-full flex justify-center items-center'>
                     <StorageIcon className='text-cyan-400 '/>
